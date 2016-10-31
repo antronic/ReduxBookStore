@@ -1,0 +1,28 @@
+{
+  "name": "learn_redux_book_store",
+  "description": "Book Store with Redux",
+  "main": "server.js",
+  "authors": [
+    "Jirachai Chansivanon"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "redux",
+    "react",
+    "react-redxut",
+    "book",
+    "store"
+  ],
+  "homepage": "https://github.com/antronic/learn_redux_book_store",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.5"
+  }
+}

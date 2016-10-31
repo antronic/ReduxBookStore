@@ -1,8 +1,8 @@
 export default () =>{
   return [
-    {title: 'A', cat: 'M'},
-    {title: 'B'},
-    {title: 'C'},
-    {title: 'D'}
+    {title: 'Jack and the beanstalk', price: 99},
+    {title: 'Three Little Pig', price: 89},
+    {title: 'Cinderella', price: 89},
+    {title: 'Little Red Riding Hood', price: 99}
   ]
 }
